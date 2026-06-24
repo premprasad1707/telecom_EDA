@@ -1,4 +1,4 @@
-# telecom_prediction
+# telecom_Analysis
 
 The Telecom Event-Driven Architecture (EDA) is a robust framework designed to enhance the responsiveness and reliability of telecommunications systems. By leveraging event-driven principles, this architecture enables real-time processing, scalability, and improved communication between services, making it ideal for modern telecom applications.
 # 📊 Telecom Customer Churn Prediction
